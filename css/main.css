@@ -1,2 +1,26 @@
-/* Inserta tu CSS aqui */
-
+div {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    margin: 10px;
+    border: 1px solid black;
+}
+.rojo{
+    width: 400px;
+    height: 120px;
+}
+.caja1{
+    display: inline-block;
+}
+.caja2{
+    display: inline-block;
+}
+.caja3{
+    display: inline-block;
+}
+.yhg {
+    display: inline-block;
+}
+.ya {
+    display: inline-block;
+}
